@@ -1,0 +1,22 @@
+.all-body{
+    
+  
+    background-color:#fff;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+/* table
+{
+    border-color:black;
+    width:100;
+    background:wheat;
+    border: 3px;
+} */
+
+
+.card
+{
+box-shadow: 1px 1px 1px 1px black;
+border-radius: 18px;
+}
